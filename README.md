@@ -53,4 +53,4 @@ MIT — see [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this testbed, please cite the INTERCON 2026 paper (see `CITATION` once the camera-ready DOI is available).
+
