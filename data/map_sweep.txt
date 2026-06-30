@@ -1,0 +1,5 @@
+# Bloque C: memoria del mapa y costo por paquete vs capacidad
+# 1024  entradas -> memlock 173056 B   (169 KiB), 987 ns/paquete
+# 8192  entradas -> memlock 1377280 B  (1.35 MiB), 1042 ns/paquete
+# 65536 entradas -> memlock 11011072 B (10.5 MiB), 1068 ns/paquete
+# La memoria escala x8 con la capacidad; el costo por paquete no cambia.

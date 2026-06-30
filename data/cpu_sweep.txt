@@ -1,0 +1,5 @@
+# Bloque D: costo por paquete vs nucleos de CPU del host saturados (stress-ng)
+# 0 nucleos -> 1158 ns/paquete (base)
+# 1 nucleo  -> 1028 ns/paquete
+# 2 nucleos -> 1538 ns/paquete (1.3x)
+# 4 nucleos -> 3017 ns/paquete (2.6x, saturacion total; sigue en microsegundos)

@@ -1,0 +1,12 @@
+# Bloque A: costo por paquete, 10 lecturas cada 20s (run_time_ns, run_cnt) de sem_prog
+# Resultado: 1068 +/- 66 ns/paquete (CV 6.2%) sobre 9 intervalos incrementales
+muestra 1: run_time_ns 1003462 run_cnt 1019
+muestra 2: run_time_ns 1739316 run_cnt 1701
+muestra 3: run_time_ns 2374942 run_cnt 2379
+muestra 4: run_time_ns 3048951 run_cnt 3061
+muestra 5: run_time_ns 3794716 run_cnt 3742
+muestra 6: run_time_ns 4537718 run_cnt 4424
+muestra 7: run_time_ns 5270017 run_cnt 5101
+muestra 8: run_time_ns 5997233 run_cnt 5783
+muestra 9: run_time_ns 6732503 run_cnt 6463
+muestra 10: run_time_ns 7538576 run_cnt 7141

@@ -1,0 +1,5 @@
+# Bloque B: costo por paquete vs tasa ofrecida (incremental sobre 25s)
+# 11 pkt/s  -> 1136 ns/paquete
+# 34 pkt/s  -> 1079 ns/paquete
+# 97 pkt/s  -> 1051 ns/paquete
+# 294 pkt/s -> 1039 ns/paquete
